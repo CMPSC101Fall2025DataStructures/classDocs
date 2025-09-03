@@ -30,16 +30,15 @@ Activity 01: Installing Essential Tools and Solving the Maze
   - [Part 2: Maze Solving and Instruction Exchange](#part-2-maze-solving-and-instruction-exchange)
   - [Reflection Questions](#reflection-questions)
 
-
 ## Deliverables
 
 You are to complete and push to your repository the completed File: `writing/reflection.md`. This writing contains a reflection, and your responses to some questions (contained in the document).
 
 ## Project Goals
 
-+ To learn how to install and configure essential software for coding.
-+ To practice giving and following precise instructions.
-+ To develop skills in collaboration and critical analysis.
+- To learn how to install and configure essential software for coding.
+- To practice giving and following precise instructions.
+- To develop skills in collaboration and critical analysis.
 
 ---
 
@@ -53,7 +52,7 @@ Follow the instructions below to download and install the following tools on you
 
 A programming editor.
 
-+ All Platforms: [code.visualstudio.com/download](code.visualstudio.com/download)
+- All Platforms: [code.visualstudio.com/download](code.visualstudio.com/download)
   + **Windows**:  
     Download the installer from [https://code.visualstudio.com/](https://code.visualstudio.com/) and run the `.exe` file.
 
@@ -70,7 +69,7 @@ A programming editor.
 
     Or download the `.deb` package from the website and install it.
 
-+ YouTube Tutorial video: [VS Code Team Tutorial](https://www.youtube.com/watch?v=B-s71n0dHUk)
+- YouTube Tutorial video: [VS Code Team Tutorial](https://www.youtube.com/watch?v=B-s71n0dHUk)
 
 ### Git Setup
 
@@ -82,8 +81,8 @@ Allows you to transfer files to and from a GitHub repository, in addition to add
 
 #### Create Your Free Account
 
-+ Sign up: [github.com/signup](https://github.com/signup)
-+ **Essential for:**
+- Sign up: [github.com/signup](https://github.com/signup)
+- **Essential for:**
   + Accessing class repositories
   + Submitting your work for grading
   + Version control
@@ -151,10 +150,10 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ### Python3: A programming language
 
-+ **Windows**:  
+- **Windows**:  
   Download the installer from [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/) and run the `.exe` file.
 
-+ **Mac**:  
+- **Mac**:  
 Note: Python is often pre-installed on MacOS, but it may be an older version which might need updating. I have found in some cases that by simply typing `python3` in the terminal, MacOS may automatically ask the user whether it can automatically install updates from `XCode`. Follow the prompts to complete the installation.
 
   Install using Homebrew which is available from [https://brew.sh/](https://brew.sh/). Open a terminal and run:
@@ -165,7 +164,7 @@ Note: Python is often pre-installed on MacOS, but it may be an older version whi
 
   Or download from [https://www.python.org/downloads/mac-osx/](https://www.python.org/downloads/mac-osx/).
 
-+ **Linux (Ubuntu)**:
+- **Linux (Ubuntu)**:
 Python is often pre-installed on Ubuntu, but if you need to install or upgrade it.
 
   Open a terminal and run:
@@ -188,7 +187,7 @@ This activity will be checked by Gatorgrade for completion when it is submitted 
 
 ### Checking Your Work
 
- + Navigate to the root directory of this project in your terminal or command prompt to run the following command. Note, you must be inside the project directory for the below command to work to check your work.
+- Navigate to the root directory of this project in your terminal or command prompt to run the following command. Note, you must be inside the project directory for the below command to work to check your work.
 
   ```bash
   gatorgrade --config config/gatorgrade.yml
@@ -218,4 +217,3 @@ Writing clear and precise instructions is a crucial skill in programming and col
 ## Reflection Questions
 
 Please open the `writing/reflection.md` file and answer the questions there. Be sure to replace all instances of `To-Do` with your answers. If you have any questions about the reflection, please ask!
-
